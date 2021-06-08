@@ -8,13 +8,6 @@
 <h3> Viewing This Project </h3>
   <p> Source Code: </p>
   <p> Online Working Version: </p>
-  
-<h3> Installation </h3>
-  
-  <p> Install npm: </p>
-  <p> $ npm install npm@latest -g </p>
-  <p> Clone repository: </p> 
-  <p> $ git clone </p>
 
 ## Support
 Feel free to contact me: <br>
