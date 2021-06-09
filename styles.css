@@ -1,11 +1,33 @@
+body {
+  background-color:darkcyan;
+}
+
 button {
-  background-color: #0c80f3;
+  background-color: darkcyan;
   border: 6px solid #0ff166;
   border-radius: 10px;
   width: 150px;
+  align-items: center;
+}
+
+#root{
+  background-color: darkcyan;
+  color: whitesmoke;
 }
 
 select {
-  display: block;
-  margin-bottom: 20px;
+  padding: 1rem;
+  font-size: 1.5rem;
+  display:block;
+}
+
+input {
+  background: lightgray;
+  color: darkcyan;
+  margin: 1rem;
+  text-transform: uppercase;
+}
+
+input:hover {
+    background: whitesmoke
 }
