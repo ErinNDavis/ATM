@@ -8,8 +8,7 @@
 <p> A simple ATM designed to allow user to withdraw and input cash, which updates overall balance. My modifications were to style. I also added an alert when an invalid number was input for deposit and when a user tries to get more funds out then is in their account. This is a REACT based project that was assigned via MIT xPROs Full Stack Developer Professional Certification.  </p>
 
 <h3> Viewing This Project </h3>
-  <p> Source Code: </p>
-  <p> Online Working Version: </p>
+  <p> Source Code: git@github.com:ErinNDavis/ATM.git</p>
 
 ## Support
 Feel free to contact me: <br>
