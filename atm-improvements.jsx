@@ -23,7 +23,8 @@ const Account = () => {
   const handleChange = (event) => {
     console.log(Number(event.target.value));
     if (Number(event.target.value) <= 0) {
-      return setValidTransaction(false);
+      setValidTransaction(false);
+      alert('invalid input');
     }
     if (atmMode === 'Cash Back' && Number(event.target.value) > totalState) {
       setValidTransaction(false);
